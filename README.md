@@ -1,3 +1,6 @@
+---
+title: qso_variability
+---
 This project is about the relation between quasar variabilities and other properties of quasar. Topics of interest include:
 
 (1) Investigate the relation between DRW parameters and quasar properties
