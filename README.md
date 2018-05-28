@@ -3,7 +3,7 @@
 
 This project is about the relation between quasar variabilities and other properties of quasar. Topics of interest include:
 
-(1) Investigate the relation between DRW parameters and quasar properties
+(1) Investigate the relation between DRW parameters and quasar properties\\
 (2) Models beyond DRW (especially at very short timescales).
 
 ### Things to do: (06/08 - 07/10)
