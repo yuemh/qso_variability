@@ -6,7 +6,7 @@ This project is about the relation between quasar variabilities and other proper
 (1) Investigate the relation between DRW parameters and quasar properties
 (2) Models beyond DRW (especially at very short timescales).
 
-# Things to do: (06/08 - 07/10)
+### Things to do: (06/08 - 07/10)
 
 (1) Aperture correction (1 week)
 
@@ -19,7 +19,7 @@ This project is about the relation between quasar variabilities and other proper
 (5) Run JAVELIN on all data. (1 week)
 
 
-# Further things:
+### Further things:
 
 (1) Simulation
 
