@@ -1,5 +1,5 @@
 
-{\bf Quasar Variabilitty}
+<p style="font-family:lato light;font-size:100%">Quasar Variability</p>
 
 This project is about the relation between quasar variabilities and other properties of quasar. Topics of interest include:
 
