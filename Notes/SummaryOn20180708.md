@@ -1,7 +1,9 @@
 # The Continuum Variability of SDSS-RM Quasars
 
 ## Intro (Previous Studies)
-There has been models, codes, observations on quasar continuum variability.
+There has been models, codes, observations on quasar continuum variability. The most important observation is MacLeod et al. (2010), who use SDSS Stripe 82 data, with longest baseline ~9 year.
+
+As far as I know, MacLeod et al. (2010) work is the basic of most of the knowledge of this topic. But I believe that we can dig further.
 
 ## Aim
 
@@ -22,9 +24,11 @@ Photometric data should include:
 - Pan-Starrs (shall we wait for DR2?)
 - SDSS DR12 spectrum
 - SDSS-RM
-- BASS
+- BASS (??)
 
-ALL quasars should have >11 year time baseline, with number of photometric points >80.
+ALL quasars should have ~13 year time baseline, with number of photometric points >80.
+
+Need to check with Ian and Xiaohui about the origin of data.
 
 ### Combining different surveys
 - SDSS photometry: PSF magnitude
@@ -38,3 +42,7 @@ ALL quasars should have >11 year time baseline, with number of photometric point
 ## Analyze
 
 Use JAVELIN to measure the parameters.
+
+First analyze the influence of rest-frame wavelength. Compare with rpevious studies. (Consider what does this mean).
+
+Note the influence of bias. especially on tau.
