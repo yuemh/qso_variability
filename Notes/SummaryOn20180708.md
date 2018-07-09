@@ -34,3 +34,7 @@ ALL quasars should have >11 year time baseline, with number of photometric point
 - SDSS DR12 spectrum: integrate the spectrum and do a typical aperture correction, assuming a typical seeing.
 - SDSS-RM: used as the standard
 - BASS: use SDSS-RM to correct Ian's data
+
+## Analyze
+
+Use JAVELIN to measure the parameters.
