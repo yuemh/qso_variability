@@ -26,7 +26,7 @@ Photometric data should include:
 - SDSS-RM
 - BASS (??)
 
-ALL quasars should have ~13 year time baseline, with number of photometric points >80.
+ALL quasars should have ~13 year time baseline in both bands, with number of photometric points >80.
 
 Need to check with Ian and Xiaohui about the origin of data.
 
