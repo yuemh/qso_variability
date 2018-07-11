@@ -16,28 +16,16 @@ Investigate the following topics:
 
 Quasars: SDSS_RM quasars (849  quasars)
 
-Photometric data should include:
-
-- SDSS photometry
-- SDSS DR7 spectrum
-- CFHT legacy survey (g band)
-- Pan-Starrs (shall we wait for DR2?)
-- SDSS DR12 spectrum
-- SDSS-RM
-- BASS (??)
-
 ALL quasars should have ~13 year time baseline in both bands, with number of photometric points >80.
 
 Need to check with Ian and Xiaohui about the origin of data.
 
 ### Combining different surveys
 - SDSS photometry: PSF magnitude
-- SDSS DR7 spectrum: integrate the spectrum and do a typical aperture correction, assuming a typical seeing.
-- CFHT legacy survey (g band): use SDSS-RM to correct Ian's data
+- CFHT legacy survey: raw images.
 - Pan-Starrs (shall we wait for DR2?): Aperture mag. (Pan-Starrs has performed aperture correction)
-- SDSS DR12 spectrum: integrate the spectrum and do a typical aperture correction, assuming a typical seeing.
-- SDSS-RM: used as the standard
-- BASS: use SDSS-RM to correct Ian's data
+- SDSS-RM: get the light curve from the ftp
+- Ian's data: what are the measurements after MJD=57000? How should I describe these points?
 
 ## Analyze
 
